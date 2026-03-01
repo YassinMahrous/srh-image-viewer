@@ -2,6 +2,8 @@
 
 Welcome to the SRH ImageViewer project! The goal of this project is to collaboratively build an image processing application. Each student will contribute by creating a personal "module" that adds new image processing capabilities to the main application.
 
+![alt text](./assets/app.png)
+
 This guide will walk you through setting up the project, creating your own module, and submitting your contribution.
 
 ## Project Timeline
